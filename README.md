@@ -1,5 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on in a small IT start-up in Busan city
-- 📫 How to reach me: yonmosound@gmail.com
-- ⚡ Fun fact: My fart smells good
+개인작업과 회사작업을 분리한 뒤 커밋 잔디가 황무지로 변함
