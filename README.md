@@ -2,4 +2,4 @@
 (github profile of the chief of the wonmo cyber school). 
 
 
-[중간에 비어있는 잔디의 행방](https://github.com/yeowonmo)
+[20년 11월 부터 비어있는 잔디의 행방(회사 계정을 따로 분리함)](https://github.com/yeowonmo)
