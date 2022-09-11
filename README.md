@@ -2,4 +2,4 @@
 
 (Github profile of the chief of the wonmo cyber school).
 
-[wonmo cyber school link](https://wonmocyberschool.com)
+[wonmo cyber school](https://wonmocyberschool.com)
